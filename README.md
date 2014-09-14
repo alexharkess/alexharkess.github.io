@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dbyll
 =====
 
@@ -32,3 +33,9 @@ Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-g
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+=======
+alexharkess.github.io
+=====================
+
+my personal website
+>>>>>>> 6684e35a74bcfb0becb275eded2f3170dd52e24a
