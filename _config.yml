@@ -1,9 +1,8 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://alexharkess.github.io
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Alex Harkess
+email: aharkess@plantbio.uga.edu
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,9 +13,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jeremy Ray
   pic: 1
-  position: Lead Designer
+  position: Senior, Plant Biology
   social:
     - title: twitter
       url: #
@@ -25,9 +24,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Shayan Agha
   pic: 2
-  position: Lead Marketer
+  position: Sophomore, Economics/Pre-med
   social:
     - title: twitter
       url: #
@@ -36,17 +35,27 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Dat Hoang
   pic: 3
-  position: Lead Developer
+  position: M.S Microbiology (2012)
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
+- name: Saravanaraj Ayyampalayam
+  pic: 4
+  position: PhD Chemistry (1999)
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
