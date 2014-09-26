@@ -1,12 +1,15 @@
 ---
-title: Open Content
+title: Round Icons
+subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: content-preview.png
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-linkout: https://bitbucket.org/caseywdunn
-
-description: We produce a range of open content. This includes the <a href="https://bitbucket.org/caseywdunn">code</a> that underlies our tools and published analyses, <a href="https://bitbucket.org/caseywdunn/phylogeneticbiology/src">teaching resources</a>, <a href="http://htmlpreview.github.io/?https://github.com/caseywdunn/random_walk/blob/master/randomwalk.html">essays</a>, <a href="https://www.flickr.com/photos/12455333@N00/">images</a>, and our <a href="http://creaturecast.org">CreatureCast</a> series.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

@@ -1,123 +1,69 @@
-url: https://y7kim.github.io
-baseurl: ''
+url: https://alexharkess.github.io/
+baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: The Dunn Lab
-email: casey_dunn@brown.edu
-description: "Casey Dunn's laboratory in the Department of Ecology and Evolutionary Biology at Brown University."
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503 
+  secondary: 333 
   secondary-dark: 000
 
 # Team names, titles and social links
 people:
-- name: Casey Dunn
-  pic: casey
-  position: Principal Investigator
-  description: My CV is available <a href="/assets/Casey_Dunn_CV.pdf">here</a>.
+- name: Jeremy Ray
+  pic: 1
+  position: Undergraduate (Senior)
   social:
     - title: twitter
-      url: https://twitter.com/caseywdunn
-    - title: google
-      url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ
-    - title: bitbucket 
-      url: https://bitbucket.org/caseywdunn
-    - title: github
-      url: https://github.com/caseywdunn
-    - title: vimeo-square
-      url: https://vimeo.com/user1747626
-    - title: flickr
-      url: https://www.flickr.com/photos/12455333@N00/
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-- name: Stefan Siebert
-  pic: stefan
-  position: Postdoc
-  description: The developmental biology and diversity of hydrozoans (Cnidaria).
-  social:
-    - title: google
-      url: http://scholar.google.com/citations?user=G8XF6J0AAAAJ
-    - title: flickr
-      url: https://www.flickr.com/photos/ssiebert/
-
-- name: Felipe Zapata
-  pic: felipe
-  position: Postdoc
-  description: Phylogenetics, diversity, and computational biology. I am a botanist, but enjoy the fascinating world of animals too. <a href="http://felipezapata.me">My site</a>.
+- name: Shayan Agha
+  pic: 2
+  position: Lead Marketer
   social:
     - title: twitter
-      url: https://twitter.com/zapata_f
-    - title: google
-      url: http://scholar.google.com/citations?user=dwQ7qIcAAAAJ
-      
-- name: Mark Howison
-  pic: mark
-  position: Application Scientist
-  description: As an application scientist and the interim director at Brown's <a href="http://www.ccv.brown.edu">Center for Computation and Visualization</a>, I help researchers better utilize high performance computing resources.
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
   social:
     - title: twitter
-      url: https://twitter.com/markhowison
-    - title: google
-      url: http://scholar.google.com/citations?user=30GiMJIAAAAJ
-      
-- name: Rebecca Helm
-  pic: rebecca
-  position: Graduate Student
-  description: Evolution of development in cnidarians, as well as their systematics and natural history. My <a href="http://www.rebeccarhelm.com/">site</a>, my <a href="http://deepseanews.com/about/rr-helm/">contributions to Deep Sea News</a>.
-  social:
-    - title: twitter
-      url: https://twitter.com/RebeccaRHelm
-    - title: google
-      url: http://scholar.google.com/citations?user=NYI5GP8AAAAJ
-      
-- name: Cat Munro
-  pic: cat
-  position: Graduate Student
-  description: Origin and evolution of new levels of biological organization. Evolution and development of functional specialization in siphonophores.
-  social:
-    - title: twitter
-      url: https://twitter.com/CatMunro_
-    - title: google
-      url: http://scholar.google.com/citations?user=2EpYRt4AAAAJ
-      
-- name: August Guang
-  pic: august
-  position: Graduate Student
-  description: Evolutionary processes. Phylogenetic algorithms and the reproducibility and accuracy of their results. 
-  social:
-
-
-- name: Sam Church
-  pic: sam
-  position: Undergrad Student
-  description: Comparative biology and phylogenetics, as well as developmental biology. Histology and development of siphonophores. 
-  social:
-
-
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-    - title: twitter
-      url: https://twitter.com/caseywdunn
-    - title: google
-      url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ&hl=en
-    - title: bitbucket 
-      url: https://bitbucket.org/caseywdunn
-    - title: github
-      url: https://github.com/caseywdunn
-    - title: vimeo-square
-      url: https://vimeo.com/user1747626
-    - title: flickr
-      url: https://www.flickr.com/photos/12455333@N00/
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Box GW
-  - line: 80 Waterman St
-  - line: Brown University
-  - line: Providence, RI 02906
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

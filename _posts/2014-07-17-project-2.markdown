@@ -1,12 +1,15 @@
 ---
-title: Practical Computing
+title: Escape
+subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: pcfb-preview.png
+img: escape.png
+thumbnail: escape-thumbnail.png
 alt: image-alt
-linkout: http://practicalcomputing.org
-
-description: Steve Haddock and I wrote <a href="http://practicalcomputing.org">Practical Computing for Biologists</a> to help biologists learn general computing skills that are relevant to many different types of data analysis.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

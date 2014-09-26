@@ -1,12 +1,30 @@
-# caseywdunn.github.io
+Agency Jekyll theme
+====================
 
-Created according to the intructions at https://pages.github.com/ 
-and https://help.github.com/articles/using-jekyll-with-pages .
+Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-To updated jekyll:
+# How to use
 
-    bundle update
+###Portfolio 
 
-To run jekyll locally:
+Portfolio projects are in '/_posts'
 
-    bundle exec jekyll serve --watch
+Images are in '/img/portfolio'
+
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)

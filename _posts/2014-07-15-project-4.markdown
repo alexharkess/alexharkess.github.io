@@ -1,11 +1,15 @@
 ---
-title: Agalma
+title: Treehouse
+subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: agalma-preview.png
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
 alt: image-alt
-linkout: https://bitbucket.org/caseywdunn/agalma
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
-description: <a href="https://bitbucket.org/caseywdunn/agalma">Agalma</a> is our multifunctional phylogenetic analysis tool. We use it to build phylogenies from genome and transcriptome data, and to study the evolution of differential gene expression. The photo above is of an Agalma, the siphonophore that this tool is named after.
 ---
