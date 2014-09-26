@@ -1,34 +1,12 @@
-dbyll
-=====
+# caseywdunn.github.io
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+Created according to the intructions at https://pages.github.com/ 
+and https://help.github.com/articles/using-jekyll-with-pages .
 
-## New
-Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
+To updated jekyll:
 
-### Features
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
+    bundle update
 
+To run jekyll locally:
 
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
-
-### Screenshots
-
-![dbyll-screenshot](	assets/media/dbyll-ss.png)
-
-### License
-- [MIT](http://opensource.org/licenses/MIT)
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+    bundle exec jekyll serve --watch
