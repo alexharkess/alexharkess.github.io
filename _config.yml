@@ -18,28 +18,28 @@ people:
   position: Senior, Plant Biology. <br /> Comparative genomics of sex-linked genes
   social:
     - title: envelope
-      url: mail:jrmry@gmail.com
+      url: mailto:jrmry@gmail.com
 
 - name: Shayan Agha
   pic: 2
   position: Sophomore, Economics/Pre-med. <br /> Performing FISH-based analysis of sex-linked genes
   social:
     - title: envelope
-      url: mail:agha@uga.edu
+      url: mailto:agha@uga.edu
 
 - name: Dat Hoang
   pic: 3
   position: M.S Microbiology (2012). <br /> Virus Induced Gene Silencing in Asparagus
   social:
     - title: envelope
-      url: mail:dhoang@plantbio.uga.edu
+      url: mailto:dhoang@plantbio.uga.edu
 
 - name: Saravanaraj Ayyampalayam
   pic: 4
   position: PhD Chemistry (1999)
   social:
     - title: envelope
-      url: mail:raj@plantbio.uga.edu
+      url: mailto:raj@plantbio.uga.edu
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +48,7 @@ social:
   - title: github
     url: http://github.com/alexharkess
   - title: envelope
-    url: mail:aharkess@plantbio.uga.edu
+    url: mailto:aharkess@plantbio.uga.edu
 
 # Postal address (add as many lines as necessary)
 address:
