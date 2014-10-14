@@ -45,10 +45,12 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/aeharkess
-  - title: github
+  - title: git
     url: http://github.com/alexharkess
   - title: envelope
     url: mailto:aharkess@plantbio.uga.edu
+  - title: google
+    url: http://scholar.google.com/citations?user=EkrN6nAAAAAJ&hl=en
 
 # Postal address (add as many lines as necessary)
 address:
