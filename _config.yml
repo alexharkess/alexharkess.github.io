@@ -44,11 +44,17 @@ people:
 - name: John Chaknis
   pic: 5
   position: Freshman, Pre-Dental <br /> FISH-based analysis of centromeres, telomeres, and sex-linked genes 
-  
+  social:
+    - title: envelope
+      url: mailto:test@plantbio.uga.edu
+      
 - name: Nekhil Patel
   pic: 6
   position: Senior, Anthropology <br /> Comparative genomics of sex-linked genes 
-
+  social:
+    - title: envelope
+      url: mailto:test@plantbio.uga.edu
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
