@@ -43,7 +43,7 @@ people:
       
 - name: John Chaknis
   pic: 5
-  position: Freshman, Pre-Dental <br /> FISH-based analysis of centromeres, telomeres, and sex-linked genes 
+  position: Freshman, Pre-Dental <br /> FISH-based analysis of centromeres, and sex-linked genes 
   social:
     - title: envelope
       url: mailto:test@plantbio.uga.edu
