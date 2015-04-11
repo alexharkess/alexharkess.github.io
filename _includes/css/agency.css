@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.link }};
 }
 
 p {
